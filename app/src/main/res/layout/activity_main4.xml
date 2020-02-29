@@ -14,13 +14,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
-        android:text="GODOWN3" />
+        android:text="ABHAY FRUIT TRADERS" />
 
     <TextView
         android:id="@+id/textView1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="OWNER : JOSEPH KURIAN" />
+        android:text="OWNER : HARPREET SINGH" />
 
     <TextView
         android:id="@+id/textView2"
@@ -36,23 +36,13 @@
         android:id="@+id/textView3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="PRODUCT AVAILABLE : COCONUT, WATERMELON, ORANGES" />
+        android:text="STATES : PUNJAB, UP, BIHAR , HARYANA" />
 
     <TextView
         android:id="@+id/textView4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="COCONUT : 3600" />
+        android:text="RATE : 15/KM" />
 
-    <TextView
-        android:id="@+id/textView5"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="WATERMELON : 560" />
 
-    <TextView
-        android:id="@+id/textView6"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="ORANGES : 68DOZEN" />
 </LinearLayout>

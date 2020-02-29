@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/r"
     android:gravity="top"
     android:orientation="vertical"
     tools:context="com.codinginflow.multipleonclicklistenerexample.MainActivity
@@ -13,30 +14,30 @@
         android:id="@+id/button1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="GODOWN1" />
+        android:text="RAMESH FRUIT PACKERS" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="GODOWN2" />
+        android:text="NIKITA VEGETABLE TRANSPORTATIONS" />
 
     <Button
         android:id="@+id/button3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="GODOWN3" />
+        android:text="ABHAY FRUIT TRADERS" />
 
     <Button
         android:id="@+id/button4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="GODOWN4" />
+        android:text="HIYA GOODS TRANSPORTATION" />
 
     <Button
         android:id="@+id/button5"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="GODOWN5" />
+        android:text="MOHAN PACKERS AND MOVERS" />
 
 </LinearLayout>

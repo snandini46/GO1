@@ -14,13 +14,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
-        android:text="GODOWN4" />
+        android:text="HIYA GOODS TRANSPORTATION" />
 
     <TextView
         android:id="@+id/textView1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="OWNER : N K PILLAI" />
+        android:text="OWNER : N K RAO" />
 
     <TextView
         android:id="@+id/textView2"
@@ -31,33 +31,18 @@
         android:id="@+id/textView9"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TYPE : FERTILIZERS" />
+        android:text="TYPE : GRAINS" />
     <TextView
         android:id="@+id/textView3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="PRODUCT AVAILABLE : MANURE, DDT, PESTICIDES, INSECTICIDES" />
+        android:text="STATES : ANDHRA PRADESH, ODISHA, MAHARSHTRA, CHATTISGARH" />
 
     <TextView
         android:id="@+id/textView4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="MANURE : 1500KG" />
+        android:text="RATE : 7/KM" />
 
-    <TextView
-        android:id="@+id/textView5"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="DDT : 20000PKTS" />
 
-    <TextView
-        android:id="@+id/textView6"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="PESTICIDES : 5600L" />
-    <TextView
-        android:id="@+id/textView7"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="INSECTICIDES : 3600L" />
 </LinearLayout>

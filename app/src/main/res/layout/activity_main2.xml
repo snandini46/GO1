@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
     android:gravity="center"
     android:orientation="vertical"
     tools:context=".Main2Activity">
@@ -14,45 +15,37 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
-        android:text="GODOWN1" />
+        android:text="RAMESH FRUIT PACKERS" />
 
     <TextView
         android:id="@+id/textView1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="OWNER : A K MENON" />
+        android:text="OWNER : RAMESH K MENON" />
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="CONTACT : 7567598089" />
+
     <TextView
         android:id="@+id/textView7"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TYPE : VEGETABLES" />
+        android:text="TYPE : FRUITS" />
+
     <TextView
         android:id="@+id/textView3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="PRODUCT AVAILABLE : ONIONS, POTATOES, TOMATOES" />
+        android:text="STATES : KERALA, TAMIL NADU, ANDHRA PRADESH" />
 
     <TextView
         android:id="@+id/textView4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="ONION : 1500KG" />
+        android:text="RATE : 10/KM" />
 
-    <TextView
-        android:id="@+id/textView5"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="POTATO : 2000KG" />
 
-    <TextView
-        android:id="@+id/textView6"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="TOMATO : 680KG" />
 </LinearLayout>

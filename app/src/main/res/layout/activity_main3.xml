@@ -14,7 +14,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
-        android:text="GODOWN2" />
+        android:text="NIKITA VEGETABLE TRANSPORTATIONS" />
 
     <TextView
         android:id="@+id/textView1"
@@ -31,29 +31,19 @@
         android:id="@+id/textView7"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TYPE : GRAINS" />
+        android:text="TYPE : VEGETABLES" />
 
     <TextView
         android:id="@+id/textView3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="PRODUCT AVAILABLE : RICE, WHEAT, MOONGDAL" />
+        android:text="STATES : TAMIL NADU, ANDHRA PRADESH, KARNATAKA, MAHARASHTRA" />
 
     <TextView
         android:id="@+id/textView4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="ONION : 2500KG" />
+        android:text="RATE : 12/KM" />
 
-    <TextView
-        android:id="@+id/textView5"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="POTATO : 1900KG" />
 
-    <TextView
-        android:id="@+id/textView6"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="TOMATO : 980KG" />
 </LinearLayout>

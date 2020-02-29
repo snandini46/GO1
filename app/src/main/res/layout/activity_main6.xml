@@ -14,13 +14,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
-        android:text="GODOWN5" />
+        android:text="MOHAN PACKERS AND MOVERS" />
 
     <TextView
         android:id="@+id/textView1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="OWNER : P C THOMAS" />
+        android:text="OWNER : P C MOHAN" />
 
     <TextView
         android:id="@+id/textView2"
@@ -37,19 +37,14 @@
         android:id="@+id/textView3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="PRODUCT AVAILABLE : COTTON, RUBBER" />
+        android:text="STATE : KERALA, TAMIL NADU, PONDICHERRY, KARNATAKA, MAHARASHTRA, GUJARAT" />
 
     <TextView
         android:id="@+id/textView4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="COTTON : 5000KG" />
+        android:text="RATE : 15/KM" />
 
-    <TextView
-        android:id="@+id/textView5"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="RUBBER : 4000L" />
 
 
 </LinearLayout>
